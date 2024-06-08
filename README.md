@@ -48,3 +48,7 @@
   # Screen Shot
 
   ![Screen Shot](./assets/Screenshot%202024-06-08%20at%2012.36.03 AM.png)
+
+  # Screen Recording
+
+  Please follow this link for the video recording [Click here for Video!](https://drive.google.com/file/d/1piB8jqWmBAtJh4S4ZwqwnGdDRK73mABY/view?usp=drive_link)

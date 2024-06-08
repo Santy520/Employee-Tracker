@@ -14,6 +14,7 @@
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
+  * [Image](#screen-shot)
  
   
   # Installation
@@ -43,3 +44,7 @@
   Github: santy520 
   
   Email: sspalacio20@gmail.com 
+
+  # Screen Shot
+
+  ![Screen Shot](./assets/Screenshot%202024-06-08%20at%2012.36.03 AM.png)
